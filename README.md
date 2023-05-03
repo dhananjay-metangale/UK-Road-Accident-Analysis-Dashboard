@@ -5,6 +5,8 @@ Utilized slicers to allow stakeholders to easily filter data by road and weather
 Created secondary KPIs for different vehicle types and a bar chart showing casualties by road type, providing stakeholders with a more detailed view of road safety trends.
 Implemented data cleaning and transformation processes to ensure accurate and reliable reporting, and used DAX measures to enhance the functionality of the dashboard and provide additional insights.
 
+<br>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/122404051/235944714-f34f6697-032e-48f9-9e4c-7a6389567ea3.jpg" width="500" height="35"></a></p>
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **Folder Structure Guide**
 
@@ -41,7 +43,8 @@ Implemented data cleaning and transformation processes to ensure accurate and re
     o Accident by Location
     
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge <br>
-#### <center><b> Power Bi Dashboards </b></centre>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/122404051/235943675-6b3f4243-403a-464d-ae86-157b42b7925d.jpg" width="750" height="35"></a></p>
+
 
 
 <br>
